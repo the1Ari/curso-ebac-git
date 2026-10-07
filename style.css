@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    margin: 20px;
+    color: gray;
+}
+h1 {
+    text-align: center;
+    color: rgb(31, 31, 159);
+}
+.secao {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    border-left: 8px solid #ccc;
+}
+.esportes {
+    border-left-color: #c44d19;
+    background-color: #eafaf1;
+}
+.esportes h2 {
+    color: #87300a;
+}
+.entretenimento {
+    border-left-color: #8e44ad;
+    background-color: #f5eeed;
+}
+.entretenimento h2 {
+    color: #512564;
+}
+.tecnologia {
+    border-left-color: #2980b9;
+    background-color: #ebf5fb;
+}
+.tecnologia h2 {
+    color: #1f5172;
+}
